@@ -7,4 +7,3 @@ public class Receita {
         double avaliacao;
 
     }
-}

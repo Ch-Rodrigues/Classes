@@ -7,6 +7,6 @@ public class NovoExercicio {
         meuExercicio.series = 3;
         meuExercicio.repeticoes = 15;
         meuExercicio.regiaoExercitada = "Peitoral";
-
+        meuExercicio.exibirComRetorno();
     }
 }
