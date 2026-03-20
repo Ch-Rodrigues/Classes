@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Receita.iml" filepath="$PROJECT_DIR$/Receita.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/untitled.iml" filepath="$PROJECT_DIR$/untitled.iml" />
+>>>>>>> 3ffee7e (Metodos)
     </modules>
   </component>
 </project>
